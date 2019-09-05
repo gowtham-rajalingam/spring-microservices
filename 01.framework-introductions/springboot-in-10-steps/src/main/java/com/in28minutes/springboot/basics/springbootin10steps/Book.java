@@ -8,7 +8,7 @@ public class Book {
 	public Book(long id, String name, String author) {
 		super();
 		this.id = id;
-		//sysout one liner
+		//sysout one liner and on remote edit
         //another one
 		this.name = name;
 		this.author = author;
