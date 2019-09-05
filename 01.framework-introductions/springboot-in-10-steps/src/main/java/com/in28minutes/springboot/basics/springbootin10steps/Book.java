@@ -8,7 +8,7 @@ public class Book {
 	public Book(long id, String name, String author) {
 		super();
 		this.id = id;
-		//sysout
+		//sysout one liner
         //another one
 		this.name = name;
 		this.author = author;
